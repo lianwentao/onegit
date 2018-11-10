@@ -10,3 +10,4 @@ git fuck shit
 <<<<<<< HEAD
 walaheiyouhahahah
 fenzhiguanlicelue
+bug fenzhi
